@@ -7,7 +7,7 @@ function Nav() {
         <div className='nav'>
             <img
              style={{width:"170px"}}
-             src='./img/netflix logo.png' />
+             src='img/netflix logo.png' />
         </div>
     </>
   )
